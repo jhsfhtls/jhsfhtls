@@ -3,23 +3,24 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=180&section=header&text=Jhosefh%20Teles&fontSize=42&fontAlignY=38&subtext=Analytics%20Engineer%20%7C%20AI%20%26%20Data%20Strategy&subfontSize=18&subfontAlignY=62" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=180&section=header&text=Jhosefh%20Teles&fontSize=42&fontAlignY=38&subtext=Analytics%20Engineer%20%26%20Data%20Architect&subfontSize=18&subfontAlignY=62" width="100%" alt="Header" />
 </p>
 
 ---
 
 <a name="en"></a>
+
 # Hello, I'm Jhosefh Teles 👋
 
-🚀 **Analytics Engineer | AI & Data Strategy**  
-📍 Manaus, AM, Brazil  
+🚀 **Analytics Engineer & Data Architect**  
+📍 Manaus, AM, Brazil • Global Remote  
 
 <p align="left">
-  <a href="https://github.com/jhsfhtls" target="_blank">
+  <a href="https://github.com/jhsfhtls">
     <img src="https://img.shields.io/badge/GitHub-jhsfhtls-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/jhosefh-teles" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jhosefh_Teles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/jhosefh-teles">
+    <img src="https://img.shields.io/badge/LinkedIn-Jhosefh%20Teles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jhosefhtelles@gmail.com">
     <img src="https://img.shields.io/badge/Email-jhosefhtelles%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -27,100 +28,99 @@
   <img src="https://komarev.com/ghpvc/?username=jhsfhtls&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-## 💼 Experience & Technical Focus
-Analytics Engineer with 5+ years of experience operating at the convergence of the **Modern Data Stack** and **AI-assisted engineering workflows** (the Cyborg methodology). Specialized in architecting scalable lakehouses, building production-grade dimensional data models with dbt, and implementing autonomous AI agent workflows that accelerate delivery cycles and optimize capital expenditure (CAPEX/OPEX).
+## 💼 Executive Profile
+Analytics Engineer operating at the intersection of the Modern Data Stack and AI-assisted engineering workflows. With 5+ years of production experience, I design and scale cloud data platforms (dbt, SQL, Databricks, Snowflake), enforcing strict data governance, automated testing protocols, and low-latency delivery for executive decision-making.
 
 ---
 
-## 🏆 Key Impact & High-Value Deliveries
+## 🏆 Proven Impact & Quantified Deliverables
 
-- **Pipeline Delivery Acceleration (300% Boost):** Accelerated complex dbt, DLT, and SQL pipeline delivery by 300% (compressing delivery cycles from 2 weeks to 3 days) by integrating AI-assisted workflows and custom Prompt Engineering for automated schema validation and documentation protocols.
-- **Enterprise Capital Allocation Visibility ($2M+):** Architected end-to-end cloud data architectures providing audit-ready visibility for over $2M in CAPEX/OPEX capital allocations with Databricks and Power BI, while saving 20 hours/week in cross-functional operational overhead via Power Platform automations.
-- **Revenue Recovery & Financial Optimization (+8% Uplift):** Generated an 8% uplift in revenue collections by modeling high-impact analytical datasets in SQL targeted at service optimization, consolidating data across 4 disconnected enterprise systems into unified corporate reporting.
+* **Latency & Cloud Scale:** Architected scalable cloud data ecosystems reducing analytical data delivery latency by **45%** for global enterprise clients using **dbt, Snowflake, and Databricks**.
+* **Pipeline Delivery Acceleration:** Compressed complex pipeline turnaround times by **~78%** (from 2 weeks to **3 days**) integrating AI-assisted workflows across **dbt, DLT, and SQL**.
+* **Audit-Ready Financial Architecture:** Engineered end-to-end data architectures delivering auditable financial visibility for over **$2M / R$ 10M+** in **CAPEX and OPEX** allocations via **Databricks and Power BI**.
+* **Data Quality & Reporting Turnaround:** Automated data quality testing and documentation protocols, decreasing executive reporting turnaround by **60%** through custom **Prompt Engineering and AI agents**.
+* **Operational Overhead Elimination:** Eliminated **20 hours/week** in cross-functional operational overhead by automating data pipelines and approval workflows with **Power Automate and PowerApps**.
+* **Revenue Recovery & Growth:** Generated an **8% uplift** in financial revenue collections by modeling strategic analytical datasets in **SQL** targeted at revenue recovery.
+* **SLA & Process Governance:** Maintained **99% SLA compliance** managing the data lifecycle for over **50,000 annual service orders** across enterprise platforms (**GSS, ITSM, SeSuite**).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Tech Stack
 
-### 💻 Languages & Core Data
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### 🏗️ Modern Data Stack & Cloud
+### 🏗️ Modern Data Stack, Cloud & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### 📊 Business Intelligence & Workflow Automation
+### 📊 BI, Analytics & Process Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" alt="PowerApps" />
-  <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🤖 AI-Assisted Engineering (Cyborg Productivity)
+### 🤖 AI-Assisted Engineering & Observability
 <p align="left">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/RAG_&_Semantic_Search-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG & Search" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/RAG_Concepts-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="RAG" />
 </p>
 
 ---
 
 <a name="pt"></a>
+
 # Olá, sou Jhosefh Teles 👋
 
-🚀 **Analytics Engineer | Estratégia de IA & Dados**  
-📍 Manaus, AM, Brasil  
+🚀 **Engenheiro de Analytics & Arquiteto de Dados**  
+📍 Manaus, AM, Brasil • Remoto Global  
 
-<p align="left">
-  <a href="https://github.com/jhsfhtls" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jhsfhtls-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/jhosefh-teles" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jhosefh_Teles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jhosefhtelles@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jhosefhtelles%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jhsfhtls&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visualizações do Perfil" />
-</p>
-
-## 💼 Experiência e Foco Técnico
-Engenheiro de Analytics com mais de 5 anos de experiência atuando na convergência entre o **Modern Data Stack** e **fluxos de engenharia assistidos por IA** (metodologia Cyborg). Especializado na arquitetura de lakehouses escaláveis, modelagem dimensional em dbt e automação de rotinas com agentes inteligentes para acelerar entregas e viabilizar controle financeiro de CAPEX e OPEX.
+## 💼 Perfil Executivo
+Engenheiro de Analytics atuando na convergência do Modern Data Stack com fluxos de engenharia assistidos por Inteligência Artificial. Com mais de 5 anos de experiência prática, arquiteto e escalo ecossistemas analíticos em nuvem (dbt, SQL, Databricks, Snowflake), implementando governança rigorosa, testes automatizados e entrega com baixa latência para suporte a decisões estratégicas e C-level.
 
 ---
 
-## 🏆 Feitos de Alto Impacto & Resultados de Negócio
+## 🏆 Entregas de Impacto & Métricas Comprovadas
 
-- **Aceleração na Entrega de Pipelines (Ganho de 300%):** Acelerei a entrega de pipelines complexos em dbt, DLT e SQL em 300% (reduzindo ciclos de 2 semanas para 3 dias), integrando fluxos assistidos por IA e Prompt Engineering para validação de esquemas e documentação automatizada.
-- **Visibilidade de Alocação de Capital (+R$ 10 Milhões):** Estruturei arquiteturas de dados ponta a ponta garantindo visibilidade financeira auditável para mais de R$ 10 milhões em projetos de CAPEX e OPEX via Databricks e Power BI, economizando 20 horas semanais de sobrecarga operacional com Power Platform.
-- **Recuperação de Receita & Consolidação (+8% em Arrecadação):** Impulsionei um aumento de 8% na arrecadação financeira modelando conjuntos de dados analíticos em SQL voltados à recuperação de receita, unificando dados fragmentados de 4 sistemas corporativos em visualizações centralizadas.
+* **Latência & Escala em Nuvem:** Arquitetei ecossistemas de dados em nuvem reduzindo a latência de disponibilização analítica em **45%** para clientes corporativos globais com **dbt, Snowflake e Databricks**.
+* **Aceleração de Ciclos de Entrega:** Reduzi o tempo de ciclo de entrega de pipelines analíticos complexos em **~78%** (de 2 semanas para **3 dias**), integrando fluxos assistidos por IA em **dbt, DLT e SQL**.
+* **Governança Financeira Auditável:** Estruturei arquiteturas de dados ponta a ponta garantindo visibilidade financeira auditável para mais de **R$ 10 milhões / $2M+** em projetos de **CAPEX e OPEX** via **Databricks e Power BI**.
+* **Qualidade de Dados & Agilidade de Relatórios:** Automatizei protocolos de testes de qualidade de dados e documentação, diminuindo em **60%** o tempo de resposta de relatórios executivos via **Prompt Engineering e agentes inteligentes**.
+* **Eliminação de Sobrecarga Operacional:** Economizei **20 horas semanais** em sobrecarga operacional de equipes multidisciplinares automatizando pipelines de dados e fluxos de aprovação com **Power Automate e PowerApps**.
+* **Recuperação de Receita:** Impulsionei um aumento de **8%** na arrecadação financeira modelando conjuntos de dados analíticos em **SQL** voltados à recuperação de receita.
+* **Governança de Processos & SLAs:** Assegurei **99% de conformidade de SLA** gerenciando o ciclo de vida de dados de mais de **50 mil ordens de serviço anuais** nos sistemas corporativos (**GSS, ITSM, SeSuite**).
 
 ---
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
+  <h2>🏆 Conquistas & Troféus GitHub</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=jhsfhtls&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h2>📊 Analytics & Activity Metrics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=jhsfhtls&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsfhtls&layout=compact&theme=radical" alt="Linguagens mais utilizadas" />
+  <h2>📊 Estatísticas de Atividade & Commits</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhsfhtls&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsfhtls&layout=compact&theme=radical" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhsfhtls&theme=radical&hide_border=true" alt="Sequência de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhsfhtls&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhsfhtls&theme=react-dark&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhsfhtls&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🐍 Snake Game (Histórico de Contribuições)</h2>
+  <img src="https://raw.githubusercontent.com/jhsfhtls/jhsfhtls/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
