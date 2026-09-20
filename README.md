@@ -45,6 +45,15 @@ Analytics Engineer operating at the intersection of the Modern Data Stack and AI
 
 ---
 
+## 🌟 Featured Projects
+
+* [**Core - Multimodal Antigravity AI Subagent**](https://github.com/jhsfhtls/core)  
+  An autonomous, context-aware AI coding assistant developed with the Google DeepMind architecture (Antigravity). It orchestrates complex multi-step workflows, manages local codebases securely, and accelerates full-stack software delivery.
+* [**SafeWays - Fullstack Geolocation & Safe Routes App**](https://github.com/jhsfhtls/Inovatech-2024-SafeWays)  
+  A modern mobile-first web application designed for urban mobility and security. Features real-time GPS tracking, risk mapping, and seamless backend integration built on React, Node.js, and mapping APIs.
+
+---
+
 ## 🛠️ Core Tech Stack
 
 ### 🏗️ Modern Data Stack, Cloud & Storage
@@ -101,21 +110,21 @@ Engenheiro de Analytics atuando na convergência do Modern Data Stack com fluxos
 
 ---
 
-<div align="center">
-  <h2>🏆 Conquistas & Troféus GitHub</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=jhsfhtls&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
-</div>
+## 🌟 Projetos em Destaque
 
-<br/>
+* [**Core - Subagente Multimodal de IA (Antigravity)**](https://github.com/jhsfhtls/core)  
+  Um assistente autônomo de codificação em IA, ciente de contexto, desenvolvido com a arquitetura do Google DeepMind (Antigravity). Orquestra fluxos de trabalho complexos, gerencia bases de código locais de forma segura e acelera a entrega de software full-stack.
+* [**SafeWays - App Fullstack de Geolocalização e Rotas Seguras**](https://github.com/jhsfhtls/Inovatech-2024-SafeWays)  
+  Uma aplicação web mobile-first voltada para mobilidade urbana e segurança. Possui rastreamento GPS em tempo real, mapeamento de riscos e integração de backend eficiente, desenvolvido com React, Node.js e APIs de mapa.
+
+---
 
 <div align="center">
   <h2>📊 Estatísticas de Atividade & Commits</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=jhsfhtls&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsfhtls&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/jhsfhtls/my-github-stats/master/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/jhsfhtls/my-github-stats/master/generated/languages.svg" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhsfhtls&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhsfhtls&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br/>
