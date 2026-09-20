@@ -51,6 +51,10 @@ Analytics Engineer operating at the intersection of the Modern Data Stack and AI
   An autonomous, context-aware AI coding assistant developed with the Google DeepMind architecture (Antigravity). It orchestrates complex multi-step workflows, manages local codebases securely, and accelerates full-stack software delivery.
 * [**SafeWays - Fullstack Geolocation & Safe Routes App**](https://github.com/jhsfhtls/Inovatech-2024-SafeWays)  
   A modern mobile-first web application designed for urban mobility and security. Features real-time GPS tracking, risk mapping, and seamless backend integration built on React, Node.js, and mapping APIs.
+* [**Enterprise Analytics Engineering (dbt & BigQuery)**](https://github.com/jhsfhtls/dbt_project)  
+  An enterprise-grade data transformation pipeline implementing a scalable Medallion Architecture (Bronze, Silver, Gold). Demonstrates automated data quality testing and documentation using dbt Core and Google BigQuery.
+* [**Inventory & Supply Chain Analytics (PostgreSQL)**](https://github.com/jhsfhtls/DTAIDI_SYSTOCK)  
+  A relational database model designed to extract critical business insights. Features analytical queries tracking consumption patterns, pending supply chain requisitions, and anomaly detection.
 
 ---
 
@@ -116,6 +120,10 @@ Engenheiro de Analytics atuando na convergência do Modern Data Stack com fluxos
   Um assistente autônomo de codificação em IA, ciente de contexto, desenvolvido com a arquitetura do Google DeepMind (Antigravity). Orquestra fluxos de trabalho complexos, gerencia bases de código locais de forma segura e acelera a entrega de software full-stack.
 * [**SafeWays - App Fullstack de Geolocalização e Rotas Seguras**](https://github.com/jhsfhtls/Inovatech-2024-SafeWays)  
   Uma aplicação web mobile-first voltada para mobilidade urbana e segurança. Possui rastreamento GPS em tempo real, mapeamento de riscos e integração de backend eficiente, desenvolvido com React, Node.js e APIs de mapa.
+* [**Enterprise Analytics Engineering (dbt & BigQuery)**](https://github.com/jhsfhtls/dbt_project)  
+  Pipeline corporativo de transformação de dados implementando uma Arquitetura Medalhão escalável (Bronze, Silver, Gold). Demonstra testes automatizados de qualidade de dados e documentação usando dbt Core e Google BigQuery.
+* [**Inventory & Supply Chain Analytics (PostgreSQL)**](https://github.com/jhsfhtls/DTAIDI_SYSTOCK)  
+  Modelo de banco de dados relacional focado na cadeia de suprimentos. Extrai insights estratégicos através de consultas analíticas rastreando consumo, requisições pendentes e detecção de anomalias.
 
 ---
 
