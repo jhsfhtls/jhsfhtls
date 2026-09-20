@@ -47,8 +47,8 @@ Analytics Engineer operating at the intersection of the Modern Data Stack and AI
 
 ## 🌟 Featured Projects
 
-* [**Core - Multimodal Antigravity AI Subagent**](https://github.com/jhsfhtls/core)  
-  An autonomous, context-aware AI coding assistant developed with the Google DeepMind architecture (Antigravity). It orchestrates complex multi-step workflows, manages local codebases securely, and accelerates full-stack software delivery.
+* [**Consulting Portfolio & Standard Operating Procedures (SOPs)**](https://github.com/jhsfhtls/consultingTest)  
+  A comprehensive library of technical standard operating procedures (POPs), AI-assisted workflows, and executive architecture documentation for cloud data platforms. Demonstrates deep expertise in enterprise data strategy and governance.
 * [**SafeWays - Fullstack Geolocation & Safe Routes App**](https://github.com/jhsfhtls/Inovatech-2024-SafeWays)  
   A modern mobile-first web application designed for urban mobility and security. Features real-time GPS tracking, risk mapping, and seamless backend integration built on React, Node.js, and mapping APIs.
 
@@ -112,8 +112,8 @@ Engenheiro de Analytics atuando na convergência do Modern Data Stack com fluxos
 
 ## 🌟 Projetos em Destaque
 
-* [**Core - Subagente Multimodal de IA (Antigravity)**](https://github.com/jhsfhtls/core)  
-  Um assistente autônomo de codificação em IA, ciente de contexto, desenvolvido com a arquitetura do Google DeepMind (Antigravity). Orquestra fluxos de trabalho complexos, gerencia bases de código locais de forma segura e acelera a entrega de software full-stack.
+* [**Portfólio de Consultoria & Procedimentos Operacionais Padrão (POPs)**](https://github.com/jhsfhtls/consultingTest)  
+  Uma biblioteca abrangente de POPs técnicos, fluxos assistidos por IA e documentação arquitetural executiva para plataformas de dados em nuvem. Demonstra expertise sólida em governança e estratégia de dados corporativos.
 * [**SafeWays - App Fullstack de Geolocalização e Rotas Seguras**](https://github.com/jhsfhtls/Inovatech-2024-SafeWays)  
   Uma aplicação web mobile-first voltada para mobilidade urbana e segurança. Possui rastreamento GPS em tempo real, mapeamento de riscos e integração de backend eficiente, desenvolvido com React, Node.js e APIs de mapa.
 
