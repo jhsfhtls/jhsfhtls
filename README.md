@@ -55,6 +55,8 @@ Analytics Engineer operating at the intersection of the Modern Data Stack and AI
   An enterprise-grade data transformation pipeline implementing a scalable Medallion Architecture (Bronze, Silver, Gold). Demonstrates automated data quality testing and documentation using dbt Core and Google BigQuery.
 * [**Inventory & Supply Chain Analytics (PostgreSQL)**](https://github.com/jhsfhtls/DTAIDI_SYSTOCK)  
   A relational database model designed to extract critical business insights. Features analytical queries tracking consumption patterns, pending supply chain requisitions, and anomaly detection.
+* [**AdventureWorks Analytics (Data Warehouse & BI)**](https://github.com/jhsfhtls/adventureworks-analytics)  
+  An end-to-end data warehousing and business intelligence solution for the AdventureWorks dataset. Focuses on robust dimensional modeling, ETL workflows, and interactive dashboards to drive sales and operational insights.
 
 ---
 
@@ -124,6 +126,8 @@ Engenheiro de Analytics atuando na convergência do Modern Data Stack com fluxos
   Pipeline corporativo de transformação de dados implementando uma Arquitetura Medalhão escalável (Bronze, Silver, Gold). Demonstra testes automatizados de qualidade de dados e documentação usando dbt Core e Google BigQuery.
 * [**Inventory & Supply Chain Analytics (PostgreSQL)**](https://github.com/jhsfhtls/DTAIDI_SYSTOCK)  
   Modelo de banco de dados relacional focado na cadeia de suprimentos. Extrai insights estratégicos através de consultas analíticas rastreando consumo, requisições pendentes e detecção de anomalias.
+* [**AdventureWorks Analytics (Data Warehouse & BI)**](https://github.com/jhsfhtls/adventureworks-analytics)  
+  Solução de ponta a ponta de data warehousing e business intelligence para o dataset AdventureWorks. Foco em modelagem dimensional robusta, fluxos ETL e dashboards interativos para impulsionar insights de vendas e operações.
 
 ---
 
