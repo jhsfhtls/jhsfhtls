@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Jhosefh%20Teles&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Analytics%20%26%20AI%20Engineer%20%7C%20Cloud%20Data%20Architecture%20%26%20Financial%20BI%20Strategy&descFontSize=17&descAlignY=60&descColor=38bdf8" width="100%" alt="Jhosefh Teles — Analytics & AI Engineer | Cloud Data Architecture & Financial BI Strategy" />
+  <img src="https://raw.githubusercontent.com/jhsfhtls/jhsfhtls/main/assets/header-banner.svg" width="100%" alt="Jhosefh Teles — Analytics & AI Engineer | Cloud Data Architecture & Financial BI Strategy" />
 
   <p>
     <a href="#english-version"><b>🇺🇸 English Version</b></a> &nbsp;|&nbsp; <a href="#versao-em-portugues"><b>🇧🇷 Versão em Português</b></a>
@@ -8,7 +8,7 @@
   <p>
     <a href="https://www.linkedin.com/in/jhosefh-teles" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: jhosefh-teles" /></a>
     <a href="mailto:jhosefhtelles@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jhosefhtelles@gmail.com" /></a>
-    <a href="https://github.com/jhsfhtls"><img src="https://img.shields.io/badge/Manaus%2C%20Brazil%20%7C%20Global%20Remote%20(B2B)-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location: Manaus, Brazil | Global Remote (B2B Contractor)" /></a>
+    <a href="https://github.com/jhsfhtls"><img src="https://img.shields.io/badge/Manaus%2C%20AM%20--%20Brazil-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location: Manaus, AM - Brazil" /></a>
     <a href="https://github.com/jhsfhtls"><img src="https://komarev.com/ghpvc/?username=jhsfhtls&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
   </p>
 </div>
@@ -17,11 +17,11 @@
 
 <a id="english-version"></a>
 
-## 🇺🇸 Executive Summary & B2B Value Proposition
+## 🇺🇸 Executive Summary & Value Proposition
 
 **Analytics & AI Engineer** and **Data & Business Intelligence Specialist** with **6 years of experience (Nov 2020 – Present)** designing, governing, and scaling cloud data ecosystems (**dbt, Databricks, Snowflake, SQL, PySpark, Power BI**). Currently delivering enterprise cloud data architectures for global clients at **Indicium AI** (New York, US — Remote) following a 5.5-year progressive career in financial planning, revenue recovery, and operational intelligence at **AEGEA Saneamento**.
 
-Available for **Global Remote B2B Contracting (USD / EUR / Brazil PJ)**, **Senior / Specialist Data & Analytics Engineering**, **Senior Business & Financial Intelligence**, and **Technical Data Coordination / Advisory**:
+Open to **Global B2B Contracting (USD / EUR)**, **Senior / Specialist Data & Analytics Engineering**, **Business & Financial Intelligence**, and **Technical Data Coordination / Advisory**:
 
 1. **Cloud Data Architecture & Modern Data Stack:** End-to-end Medallion Lakehouse design, dimensional modeling (Star Schema), incremental dbt pipelines, and automated data quality governance across **Snowflake, Databricks, and BigQuery**.
 2. **Executive Financial & Operational Intelligence:** Audit-ready BI ecosystems for **CAPEX/OPEX capital planning ($2M+ / R$ 10M+)**, **revenue recovery models**, and **high-volume SLA telemetry (50,000+ annual orders)**.
@@ -41,13 +41,13 @@ Available for **Global Remote B2B Contracting (USD / EUR / Brazil PJ)**, **Senio
 
 ---
 
-## 📌 Flagship Portfolio Case Studies
+## 📌 Featured Engineering Repositories
 
-| Track | Repository | Core Architecture & Business Outcome |
+| Domain | Repository | Core Architecture & Business Outcome |
 | :--- | :--- | :--- |
-| **1. Cloud Data & Analytics Engineering** | [**`adventureworks-analytics`**](https://github.com/jhsfhtls/adventureworks-analytics) | End-to-end Medallion Lakehouse & Star Schema (`dbt`, `Databricks`, `Snowflake`, `SQL`) demonstrating the patterns that reduced enterprise data latency by **45%**. |
-| **2. Financial & Business Intelligence** | [**`capex-opex-financial-intelligence`**](https://github.com/jhsfhtls/capex-opex-financial-intelligence) | Executive CAPEX/OPEX governance (`$2M+` visibility), revenue recovery cohorts (`+8%` collections), and SLA telemetry (`99%` compliance) using `SQL`, `Databricks`, and `Power BI`. |
-| **3. AI-Augmented DataOps & Governance** | [**`ai-accelerated-dbt-governance`**](https://github.com/jhsfhtls/ai-accelerated-dbt-governance) | Prompt-engineered `dbt` testing, automated documentation, and CI/CD quality gates that compressed pipeline delivery cycles by **78% (2 weeks → 3 days)**. |
+| **1. Cloud Data & Analytics Engineering** | [**`adventureworks-analytics`**](https://github.com/jhsfhtls/adventureworks-analytics) | End-to-end Medallion Lakehouse & Kimball Star Schema (`dbt`, `Databricks`, `Snowflake`, `SQL`) demonstrating the patterns that reduced enterprise data latency by **45%**. |
+| **2. Modular ELT & Data Quality Governance** | [**`dbt_project`**](https://github.com/jhsfhtls/dbt_project) | Production-grade `dbt` transformations, schema validation tests, and automated lineage documentation that accelerated pipeline delivery cycles by **78% (2 weeks → 3 days)**. |
+| **3. Automated GitHub Telemetry Pipeline** | [**`my-github-stats`**](https://github.com/jhsfhtls/my-github-stats) | Automated Python & GitHub Actions telemetry pipeline generating self-hosted SVG analytics across public and private enterprise repositories. |
 
 ---
 
@@ -63,7 +63,7 @@ Available for **Global Remote B2B Contracting (USD / EUR / Brazil PJ)**, **Senio
   <img src="https://img.shields.io/badge/Apache_Spark_%2F_PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
 
   <h4>Languages, Modeling & DataOps</h4>
-  <img src="https://img.shields.io/badge/SQL_(5%2B_Years)-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL_(6_Years)-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Star_Schema_%26_Medallion-0F172A?style=for-the-badge&logo=databricks&logoColor=38bdf8" alt="Dimensional Modeling & Medallion Architecture" />
   <img src="https://img.shields.io/badge/Git_%26_CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & CI/CD" />
@@ -89,11 +89,11 @@ Available for **Global Remote B2B Contracting (USD / EUR / Brazil PJ)**, **Senio
 
 <a id="versao-em-portugues"></a>
 
-## 🇧🇷 Resumo Executivo & Proposta de Valor (B2B / PJ & Liderança Técnica)
+## 🇧🇷 Resumo Executivo & Proposta de Valor
 
 **Engenheiro de Analytics & IA** e **Especialista em Dados & Business Intelligence** com **6 anos de experiência (Nov 2020 – Atual)** projetando, governando e escalando ecossistemas de dados em nuvem (**dbt, Databricks, Snowflake, SQL, PySpark, Power BI**). Atualmente arquitetando plataformas de dados corporativas para clientes globais na **Indicium AI** (Nova York, EUA — Remoto), após uma trajetória sólida de 5 anos e 5 meses em planejamento estratégico, inteligência financeira (CAPEX/OPEX), recuperação de receita e operações na **AEGEA Saneamento**.
 
-Disponível para **Contratos B2B Internacionais (USD / EUR) ou PJ no Brasil**, bem como posições **Sênior / Especialista / Coordenador de Dados & BI**:
+Disponível para **Contratos B2B Internacionais (USD / EUR)**, projetos **PJ** e posições **Sênior / Especialista / Coordenador de Dados & BI**:
 
 1. **Arquitetura de Dados em Nuvem & Modern Data Stack:** Implementação ponta a ponta de Arquitetura Medallion (Lakehouse), modelagem dimensional (Star Schema), pipelines incrementais em `dbt` e governança automatizada de qualidade em **Snowflake, Databricks e BigQuery**.
 2. **Inteligência Financeira & Operacional Executiva:** Arquiteturas analíticas auditáveis para **planejamento de capital CAPEX/OPEX (R$ 10M+ / US$ 2M+)**, **modelos de recuperação de receita** e **telemetria de SLAs em larga escala (50.000+ ordens anuais)**.
@@ -115,30 +115,18 @@ Disponível para **Contratos B2B Internacionais (USD / EUR) ou PJ no Brasil**, b
 
 ## 📊 GitHub Telemetry & Contribution Suite
 
-> *Note: Dynamic telemetry cards below are rendered by third-party open-source services (`vercel.app` / `herokuapp.com`) and include private enterprise commit counts where enabled (`count_private=true`). If an external widget service is temporarily rate-limited, all verified engineering metrics and repositories remain accessible directly above.*
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jhsfhtls&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Profile Trophies for jhsfhtls" />
+  <img src="https://raw.githubusercontent.com/jhsfhtls/my-github-stats/master/generated/overview.svg" alt="Jhosefh Teles GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/jhsfhtls/my-github-stats/master/generated/languages.svg" alt="Jhosefh Teles Top Languages" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhsfhtls&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="175" alt="GitHub Stats for jhsfhtls" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhsfhtls&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages for jhsfhtls" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhsfhtls&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats for jhsfhtls" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhsfhtls&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph for jhsfhtls" />
-</div>
-
 <br/>
-
-### 🐍 Contribution Grid Snake
 
 <div align="center">
   <picture>
