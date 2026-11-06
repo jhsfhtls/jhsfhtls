@@ -1,143 +1,46 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jhsfhtls/jhsfhtls/main/assets/header-banner.svg" width="100%" alt="Jhosefh Teles — Analytics & AI Engineer | Cloud Data Architecture & Financial BI Strategy" />
+  <img src="assets/header-banner.svg" alt="Jhosefh Teles — Analytics Engineer & Business Intelligence Analyst" width="100%" />
 
-  <p>
-    <a href="#english-version"><b>🇺🇸 English Version</b></a> &nbsp;|&nbsp; <a href="#versao-em-portugues"><b>🇧🇷 Versão em Português</b></a>
+  <p align="center">
+    <a href="#-about-me-en"><strong>🇺🇸 English</strong></a> • 
+    <a href="#-sobre-mim-pt-br"><strong>🇧🇷 Português</strong></a>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/jhosefh-teles" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: jhosefh-teles" /></a>
-    <a href="mailto:jhosefhtelles@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jhosefhtelles@gmail.com" /></a>
-    <a href="https://github.com/jhsfhtls"><img src="https://img.shields.io/badge/Manaus%2C%20AM%20--%20Brazil-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location: Manaus, AM - Brazil" /></a>
-    <a href="https://github.com/jhsfhtls"><img src="https://komarev.com/ghpvc/?username=jhsfhtls&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jhosefh-teles/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:jhosefhtelles@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Manaus,_Brazil-0f172a?style=for-the-badge&logo=google-maps&logoColor=00d2ff" alt="Location" />
   </p>
 </div>
 
 ---
 
-<a id="english-version"></a>
+## 🇺🇸 About Me (EN)
 
-## 🇺🇸 Executive Summary & Value Proposition
+I am an **Analytics Engineer and Business Intelligence Analyst** focused on turning operational, commercial, and financial data into reliable tables, automated ELT pipelines, and clear management reports.
 
-**Analytics & AI Engineer** and **Data & Business Intelligence Specialist** with **6 years of experience (Nov 2020 – Present)** designing, governing, and scaling cloud data ecosystems (**dbt, Databricks, Snowflake, SQL, PySpark, Power BI**). Currently delivering enterprise cloud data architectures for global clients at **Indicium AI** (New York, US — Remote) following a 5.5-year progressive career in financial planning, revenue recovery, and operational intelligence at **AEGEA Saneamento**.
+- **Career Progression:** I started in 2020 in operational control and service scheduling at **AEGEA Saneamento**, where building Excel and Power BI tracking tools to solve daily field bottlenecks led to **two internal promotions** into the dedicated Data & BI team (`Junior Analyst` in 2024, `Mid-level Analyst` in 2025), and subsequently to international Analytics Engineering consulting at **Indicium AI** in 2026.
+- **Core Stack:** `SQL` • `dbt` • `Databricks` • `Snowflake` • `BigQuery` • `Python` • `PySpark` • `Power BI (DAX, Power Query)` • `Power Automate` • `Git`
+- **Practical Impact:**
+  - **Analytics Engineering (`Indicium AI`):** Develop, test, and document modular ELT models (`Staging` ➔ `Intermediate` ➔ `Star Schema Marts`) in `dbt`, `Snowflake`, and `Databricks`. Standardized dbt model templates, schema tests, and AI-assisted coding workflows to cut new pipeline delivery cycles from ~2 weeks to 3 days per sprint (~78% reduction) and reduced heavy SQL runtime execution by ~45%.
+  - **Financial & Commercial BI (`AEGEA Saneamento`):** Automated budget vs. actuals tracking (`CAPEX` and `OPEX`) in `Databricks` and `Power BI` for planning and finance managers, cut monthly closing report preparation time by ~40%, built `SQL` delinquency aging queries that helped commercial and field teams increase monthly recovered revenue by 8%, and saved ~20 hours/week of manual spreadsheet entry via `Power Automate` and `PowerApps`.
 
-Open to **Global B2B Contracting (USD / EUR)**, **Senior / Specialist Data & Analytics Engineering**, **Business & Financial Intelligence**, and **Technical Data Coordination / Advisory**:
-
-1. **Cloud Data Architecture & Modern Data Stack:** End-to-end Medallion Lakehouse design, dimensional modeling (Star Schema), incremental dbt pipelines, and automated data quality governance across **Snowflake, Databricks, and BigQuery**.
-2. **Executive Financial & Operational Intelligence:** Audit-ready BI ecosystems for **CAPEX/OPEX capital planning ($2M+ / R$ 10M+)**, **revenue recovery models**, and **high-volume SLA telemetry (50,000+ annual orders)**.
-3. **AI-Accelerated DataOps & Engineering Productivity:** Integration of **Prompt Engineering and AI Agent workflows** into SQL/dbt/DLT development, compressing multi-week engineering delivery cycles into days without compromising governance.
-
----
-
-## 🚀 Key Impact & High-Value Deliveries
-
-- **Accelerated Pipeline Delivery by 78% (Indicium AI):** Compressed complex data pipeline turnaround from **2 weeks to 3 days** by integrating AI-assisted engineering workflows across **dbt, Delta Live Tables (DLT), and SQL**.
-- **Reduced Analytical Data Delivery Latency by 45% (Indicium AI):** Architected scalable cloud data ecosystems for global enterprise clients leveraging modular **dbt, Snowflake, and Databricks** architectures.
-- **Cut Executive Reporting Latency by 60% (Indicium AI):** Automated data quality testing and documentation protocols through custom **Prompt Engineering and AI agent workflows**.
-- **Governed $2M+ (R$ 10M+) in CAPEX & OPEX Capital Planning (AEGEA Saneamento):** Designed end-to-end data architectures delivering audit-ready financial visibility and **reduced regional strategic analysis turnaround time by 40%** using **SQL, Databricks, and Power BI**.
-- **Drove +8% Uplift in Revenue Collections (AEGEA Saneamento):** Modeled high-impact analytical datasets in **SQL** targeted at delinquent revenue recovery and consolidated fragmented data across **4 core enterprise systems** into unified **Databricks and Power BI** views.
-- **Eliminated 20 Hours/Week of Operational Overhead & Boosted BI Adoption by +30% (AEGEA Saneamento):** Automated cross-functional data pipelines and approval workflows with **Power Automate and PowerApps** while standardizing enterprise **Power BI** KPI governance.
-- **Maintained 99% SLA Compliance & +15% Field Productivity (AEGEA Saneamento):** Engineered resource allocation KPIs and lifecycle tracking across **50,000+ annual service orders** (`GSS`, `ITSM`, `SeSuite`, `Power BI`).
+### 📌 Featured Case Study
+- **[`adventureworks-analytics`](https://github.com/jhsfhtls/adventureworks-analytics)** — *Kimball Star Schema Dimensional Modeling & ELT Pipeline (`dbt Core`, `SQL`, `Databricks`, `Power BI`)*  
+  Transforms 60+ raw AdventureWorks ERP tables into tested Staging, Intermediate, and Gold Dimensional Marts (`fct_sales`, `fct_work_orders`, `fct_inventory_snapshots`, `fct_purchases`, `dim_*`) with custom SQL data quality assertions. *(Originally developed for my Analytics Engineering certification and extracted from a personal monorepo).*
 
 ---
 
-## 📌 Featured Engineering Repositories
+## 🇧🇷 Sobre Mim (PT-BR)
 
-| Domain | Repository | Core Architecture & Business Outcome |
-| :--- | :--- | :--- |
-| **1. Cloud Data & Analytics Engineering** | [**`adventureworks-analytics`**](https://github.com/jhsfhtls/adventureworks-analytics) | End-to-end Medallion Lakehouse & Kimball Star Schema (`dbt`, `Databricks`, `Snowflake`, `SQL`) demonstrating the patterns that reduced enterprise data latency by **45%**. |
-| **2. Modular ELT & Data Quality Governance** | [**`dbt_project`**](https://github.com/jhsfhtls/dbt_project) | Production-grade `dbt` transformations, schema validation tests, and automated lineage documentation that accelerated pipeline delivery cycles by **78% (2 weeks → 3 days)**. |
-| **3. Automated GitHub Telemetry Pipeline** | [**`my-github-stats`**](https://github.com/jhsfhtls/my-github-stats) | Automated Python & GitHub Actions telemetry pipeline generating self-hosted SVG analytics across public and private enterprise repositories. |
+Sou **Engenheiro de Analytics e Analista de Business Intelligence**, focado em transformar dados operacionais, comerciais e financeiros em modelos dimensionais confiáveis, rotinas ELT automatizadas e painéis gerenciais claros.
 
----
-
-## 🛠️ Categorized Technology Stack
-
-<div align="center">
-
-  <h4>Cloud Data Platforms & Lakehouse</h4>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery" />
-  <img src="https://img.shields.io/badge/Apache_Spark_%2F_PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-
-  <h4>Languages, Modeling & DataOps</h4>
-  <img src="https://img.shields.io/badge/SQL_(6_Years)-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Star_Schema_%26_Medallion-0F172A?style=for-the-badge&logo=databricks&logoColor=38bdf8" alt="Dimensional Modeling & Medallion Architecture" />
-  <img src="https://img.shields.io/badge/Git_%26_CI%2FCD-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & CI/CD" />
-  <img src="https://img.shields.io/badge/Data_Governance-1E293B?style=for-the-badge&logo=shield&logoColor=10b981" alt="Data Governance" />
-
-  <h4>Executive BI, Automation & AI Engineering</h4>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Power_Automate_%26_PowerApps-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate & PowerApps" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering_%26_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering & AI Workflows" />
-  <img src="https://img.shields.io/badge/RAG_%26_Semantic_Search-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG & Semantic Search" />
-
-</div>
-
----
-
-## 🎓 Education & Languages
-
-- **Associate's Degree in Systems Analysis and Development (EQF Level 6):** Centro Universitário FAMETRO (`Feb 2023 – Jun 2026`).
-- **Advanced English Immersion & Proficiency Diploma (CEFR C1):** ICBEU Manaus (`Jun 2019 – Dec 2025`).
-- **Languages:** English (Fluent / C1 — Daily working language with US/Global teams) • Portuguese (Native).
-
----
-
-<a id="versao-em-portugues"></a>
-
-## 🇧🇷 Resumo Executivo & Proposta de Valor
-
-**Engenheiro de Analytics & IA** e **Especialista em Dados & Business Intelligence** com **6 anos de experiência (Nov 2020 – Atual)** projetando, governando e escalando ecossistemas de dados em nuvem (**dbt, Databricks, Snowflake, SQL, PySpark, Power BI**). Atualmente arquitetando plataformas de dados corporativas para clientes globais na **Indicium AI** (Nova York, EUA — Remoto), após uma trajetória sólida de 5 anos e 5 meses em planejamento estratégico, inteligência financeira (CAPEX/OPEX), recuperação de receita e operações na **AEGEA Saneamento**.
-
-Disponível para **Contratos B2B Internacionais (USD / EUR)**, projetos **PJ** e posições **Sênior / Especialista / Coordenador de Dados & BI**:
-
-1. **Arquitetura de Dados em Nuvem & Modern Data Stack:** Implementação ponta a ponta de Arquitetura Medallion (Lakehouse), modelagem dimensional (Star Schema), pipelines incrementais em `dbt` e governança automatizada de qualidade em **Snowflake, Databricks e BigQuery**.
-2. **Inteligência Financeira & Operacional Executiva:** Arquiteturas analíticas auditáveis para **planejamento de capital CAPEX/OPEX (R$ 10M+ / US$ 2M+)**, **modelos de recuperação de receita** e **telemetria de SLAs em larga escala (50.000+ ordens anuais)**.
-3. **DataOps Acelerado por IA & Produtividade de Engenharia:** Integração de **Engenharia de Prompt e fluxos de Agentes de IA** ao ciclo de desenvolvimento em SQL, dbt e DLT, comprimindo entregas de semanas para dias com rigor técnico e governança.
-
----
-
-## 🚀 Principais Entregas & Resultados Comprovados
-
-- **Acelerei ciclos de entrega de pipelines complexos em 78% (Indicium AI):** Comprimi o tempo de entrega de **2 semanas para 3 dias** ao integrar fluxos de trabalho assistidos por IA em **dbt, Delta Live Tables (DLT) e SQL**.
-- **Arquitetei ecossistemas de dados em nuvem com redução de 45% na latência analítica (Indicium AI):** Estruturei pipelines escaláveis para clientes globais utilizando **dbt, Snowflake e Databricks**.
-- **Automatizei protocolos de testes de qualidade e documentação com redução de 60% na latência de relatórios executivos (Indicium AI):** Implementei validações contínuas via **Engenharia de Prompt e fluxos de agentes de IA**.
-- **Projetei arquiteturas de dados ponta a ponta para mais de US$ 2M (R$ 10M+) em planejamento de CAPEX e OPEX (AEGEA Saneamento):** Entreguei visibilidade financeira auditável e **reduzi o tempo de resposta de análises estratégicas regionais em 40%** com **SQL, Databricks e Power BI**.
-- **Gerei aumento de 8% na arrecadação de receita (AEGEA Saneamento):** Modelei conjuntos de dados analíticos de alto impacto em **SQL** voltados à recuperação de receita e **eliminei silos de dados em 4 sistemas corporativos** consolidando visões unificadas em **Databricks e Power BI**.
-- **Eliminei 20 horas/semana de retrabalho operacional e aumentei a adoção de dashboards executivos em 30% (AEGEA Saneamento):** Automatizei pipelines e fluxos de aprovação com **Power Automate e PowerApps** e escalei a governança corporativa de KPIs no **Power BI**.
-- **Mantive 99% de conformidade de SLA e melhorei a produtividade de campo em 15% (AEGEA Saneamento):** Gerenciei o ciclo de vida analítico de **mais de 50.000 ordens de serviço anuais** (`GSS`, `ITSM`, `SeSuite`, `Power BI`).
-
----
-
-## 📊 GitHub Telemetry & Contribution Suite
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jhsfhtls/my-github-stats/master/generated/overview.svg" alt="Jhosefh Teles GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/jhsfhtls/my-github-stats/master/generated/languages.svg" alt="Jhosefh Teles Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhsfhtls&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats for jhsfhtls" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhsfhtls/jhsfhtls/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhsfhtls/jhsfhtls/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation for jhsfhtls" src="https://raw.githubusercontent.com/jhsfhtls/jhsfhtls/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <sub><b>Jhosefh Teles</b> • Analytics & AI Engineering • Cloud Data Architecture & Financial Intelligence • <a href="mailto:jhosefhtelles@gmail.com">jhosefhtelles@gmail.com</a></sub>
-</div>
+- **Trajetória:** Iniciei em 2020 no controle operacional e programação de serviços na **AEGEA Saneamento**. A criação de controles em Excel e Power BI para resolver gargalos das equipes de campo me levou a **duas promoções internas** para a área dedicada de Dados & BI (`Analista Júnior` em 2024 e `Analista Pleno` em 2025) e, em 2026, à consultoria de Analytics Engineering na **Indicium AI**.
+- **Stack Principal:** `SQL` • `dbt` • `Databricks` • `Snowflake` • `BigQuery` • `Python` • `PySpark` • `Power BI (DAX, Power Query)` • `Power Automate` • `Git`
+- **Entregas Práticas:**
+  - **Analytics Engineering (`Indicium AI`):** Desenvolvimento, testes e documentação de modelos ELT modulares (`Staging` ➔ `Intermediate` ➔ `Marts em Star Schema`) em `dbt`, `Snowflake` e `Databricks`. Padronizei templates no dbt, testes de schema e fluxos de código assistidos por IA, reduzindo o tempo de desenvolvimento/refatoração de ~2 semanas para 3 dias por demanda (~78%) e o tempo de execução de queries pesadas em ~45%.
+  - **BI Financeiro, Comercial & Automação (`AEGEA Saneamento`):** Automatizei o acompanhamento de orçado vs. realizado (`CAPEX` e `OPEX`) no `Databricks` e `Power BI`, reduzi em ~40% o tempo de preparação do fechamento mensal de planejamento, criei consultas de *aging* de inadimplência em `SQL` que apoiaram as equipes comercial e de campo a elevar em 8% a receita mensal recuperada, e economizei ~20 horas semanais de trabalho manual com fluxos no `Power Automate` e `PowerApps`.
